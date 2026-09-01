@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# User-specific Visual Studio files
+*.user
+*.suo
+*.vsidx
+
+# Generated log file
+device_log.txt
